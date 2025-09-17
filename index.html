@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI & Data Solutions</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <style>
+    html { scroll-behavior: smooth; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+  <!-- Navigation -->
+  <header class="bg-gray-900 text-white shadow-md fixed w-full z-50">
+    <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+      <div class="flex items-center space-x-2">
+        <img src="logo.png" alt="Logo AI & Data Solutions" class="h-8 w-8 rounded-full">
+        <span class="text-xl font-bold text-indigo-400">AI & Data Solutions</span>
+      </div>
+      <nav class="space-x-6 hidden md:flex">
+        <a href="#about" class="hover:text-indigo-400">Über uns</a>
+        <a href="#leistungen" class="hover:text-indigo-400">Leistungen</a>
+        <a href="#contact" class="hover:text-indigo-400">Kontakt</a>
+        <a href="#impressum" class="hover:text-indigo-400">Impressum</a>
+        <a href="#datenschutz" class="hover:text-indigo-400">Datenschutz</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="bg-indigo-600 text-white h-screen flex items-center justify-center text-center">
+    <div>
+      <h1 class="text-5xl font-bold mb-4">AI & Data Solutions</h1>
+      <p class="text-xl">Intelligente Datenlösungen für Ihr Business</p>
+    </div>
+  </section>
+
+  <!-- Über uns -->
+  <section id="about" class="py-16 px-6 bg-white">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-4xl font-bold text-center text-indigo-600 mb-8">Über uns</h2>
+      <p class="text-lg text-gray-700 leading-relaxed">
+        AI & Data Solutions ist ein Team von erfahrenen Data Analysts, Data Scientists und Beratern mit über 15 Jahren Erfahrung in 
+        <strong>Datenanalyse, Statistik, Machine Learning, Data Engineering und Generative AI</strong>.  
+        Wir entwickeln maßgeschneiderte Lösungen, die Unternehmen helfen, datengetrieben zu arbeiten, Prozesse zu optimieren und Wettbewerbsvorteile zu erzielen.  
+        Unser Know-how reicht von Automobilindustrie und Finanzwesen bis hin zu Transport, Versicherung und Marketing.
+      </p>
+    </div>
+  </section>
+
+  <!-- Leistungen -->
+  <section id="leistungen" class="py-16 bg-gray-50">
+    <div class="max-w-6xl mx-auto px-6">
+      <h2 class="text-4xl font-bold text-center text-indigo-600 mb-12">Unsere Leistungen</h2>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+        <!-- Data Science & Analytics -->
+        <div class="bg-white shadow-lg rounded-2xl p-6 hover:shadow-xl transition">
+          <h3 class="text-xl font-semibold text-gray-800 mb-4">Data Science & Analytics</h3>
+          <ul class="list-disc list-inside text-gray-600 space-y-2">
+            <li>Datenanalysen & statistische Modellierung</li>
+            <li>Ad-hoc-Analysen & Prognosemodelle</li>
+            <li>Klassifikations- & Vorhersagemodelle</li>
+          </ul>
+        </div>
+
+        <!-- Machine Learning & KI -->
+        <div class="bg-white shadow-lg rounded-2xl p-6 hover:shadow-xl transition">
+          <h3 class="text-xl font-semibold text-gray-800 mb-4">Machine Learning & KI</h3>
+          <ul class="list-disc list-inside text-gray-600 space-y-2">
+            <li>ML- & Deep-Learning-Modelle</li>
+            <li>Generative AI (LLMs, Prompting, RAG, AI-Agenten)</li>
+            <li>Betrugserkennung & Predictive Analytics</li>
+          </ul>
+        </div>
+
+        <!-- Business Intelligence -->
+        <div class="bg-white shadow-lg rounded-2xl p-6 hover:shadow-xl transition">
+          <h3 class="text-xl font-semibold text-gray-800 mb-4">Business Intelligence & Reporting</h3>
+          <ul class="list-disc list-inside text-gray-600 space-y-2">
+            <li>Dashboards (Power BI, Tableau, Qlik)</li>
+            <li>KPI-Monitoring & Management-Reports</li>
+            <li>Automatisiertes Reporting & Visualisierung</li>
+          </ul>
+        </div>
+
+        <!-- Datenmanagement -->
+        <div class="bg-white shadow-lg rounded-2xl p-6 hover:shadow-xl transition">
+          <h3 class="text-xl font-semibold text-gray-800 mb-4">Datenmanagement & Engineering</h3>
+          <ul class="list-disc list-inside text-gray-600 space-y-2">
+            <li>Datenintegration & ETL-Prozesse</li>
+            <li>Data Lakes & Warehouses (PostgreSQL, MongoDB, SAP BW)</li>
+            <li>Optimierung von Datenqualität & Pipelines</li>
+          </ul>
+        </div>
+
+        <!-- Cloud & Deployment -->
+        <div class="bg-white shadow-lg rounded-2xl p-6 hover:shadow-xl transition">
+          <h3 class="text-xl font-semibold text-gray-800 mb-4">Cloud & Deployment</h3>
+          <ul class="list-disc list-inside text-gray-600 space-y-2">
+            <li>Cloud-Lösungen (Azure, AWS, Vercel)</li>
+            <li>MLOps & CI/CD (Docker, Jenkins, Kubernetes)</li>
+            <li>Skalierbare Datenarchitekturen</li>
+          </ul>
+        </div>
+
+        <!-- Beratung & Training -->
+        <div class="bg-white shadow-lg rounded-2xl p-6 hover:shadow-xl transition">
+          <h3 class="text-xl font-semibold text-gray-800 mb-4">Beratung & Training</h3>
+          <ul class="list-disc list-inside text-gray-600 space-y-2">
+            <li>Datengetriebene Strategie-Beratung</li>
+            <li>Digitalisierung & Prozessoptimierung</li>
+            <li>Workshops & Schulungen (Data Science, KI, Generative AI)</li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Kontakt -->
+  <section id="contact" class="py-16 bg-white">
+    <div class="max-w-6xl mx-auto px-6">
+      <h2 class="text-4xl font-bold text-center text-indigo-600 mb-8">Kontakt</h2>
+      <form action="https://formspree.io/f/xeolryra" method="POST" class="bg-gray-100 shadow-lg rounded-2xl p-8 max-w-2xl mx-auto">
+        <div class="mb-4">
+          <label class="block mb-2 text-gray-700">Name</label>
+          <input type="text" name="name" class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400" required>
+        </div>
+        <div class="mb-4">
+          <label class="block mb-2 text-gray-700">E-Mail</label>
+          <input type="email" name="email" class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400" required>
+        </div>
+        <div class="mb-4">
+          <label class="block mb-2 text-gray-700">Nachricht</label>
+          <textarea name="message" rows="5" class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400" required></textarea>
+        </div>
+        <button type="submit" class="bg-indigo-600 text-white px-6 py-3 rounded-lg hover:bg-indigo-700 transition">Senden</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Impressum -->
+  <section id="impressum" class="py-16 bg-gray-50 px-6">
+    <div class="max-w-6xl mx-auto text-gray-700">
+      <h2 class="text-3xl font-bold mb-4 text-gray-900">Impressum</h2>
+      <p>
+        AI & Data Solutions<br>
+        Obere Waiblinger Str. 147a<br>
+        70374 Stuttgart<br>
+        Deutschland<br>
+        Telefon: 0176 / 31591931<br>
+        E-Mail: <a href="mailto:estaghvirou.b@gmail.com" class="text-indigo-600">estaghvirou.b@gmail.com</a>
+      </p>
+    </div>
+  </section>
+
+  <!-- Datenschutz -->
+  <section id="datenschutz" class="bg-gray-100 py-16 px-6">
+    <div class="max-w-6xl mx-auto text-gray-700">
+      <h2 class="text-3xl font-bold mb-4 text-gray-900">Datenschutzerklärung</h2>
+      <p>
+        Der Schutz Ihrer persönlichen Daten ist uns wichtig. Personenbezogene Daten werden vertraulich und gemäß 
+        der gesetzlichen Datenschutzvorschriften behandelt. Diese Website verwendet keine Cookies. 
+        Daten, die Sie über das Kontaktformular eingeben, werden ausschließlich zur Bearbeitung Ihrer Anfrage genutzt 
+        und nicht an Dritte weitergegeben. Das Hosting erfolgt über Vercel (Vercel Inc.), wo IP-Adressen 
+        zu Sicherheitszwecken protokolliert werden können.
+      </p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white py-6 text-center">
+    <p>&copy; 2025 AI & Data Solutions</p>
+  </footer>
+
+</body>
+</html>
