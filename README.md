@@ -6,7 +6,7 @@ Dies ist die offizielle Webseite von **AI & Data Solutions**, einem Unternehmen,
 
 ---
 
-## 📌 Überblick
+## Überblick
 
 Die Webseite präsentiert:
 
@@ -20,7 +20,7 @@ Die Seite ist vollständig in **HTML** und **Tailwind CSS** entwickelt und für 
 
 ---
 
-## 💻 Technologien
+## Technologien
 
 - **HTML5**
 - **Tailwind CSS v2.2.19**
@@ -29,7 +29,7 @@ Die Seite ist vollständig in **HTML** und **Tailwind CSS** entwickelt und für 
 
 ---
 
-## 🛠️ Features
+##  Features
 
 - **Navigation:** Feste Navbar mit Links zu allen Sektionen
 - **Header:** Auffälliger Hero-Bereich mit Titel, Slogan und Schlüsselkompetenzen
@@ -42,10 +42,10 @@ Die Seite ist vollständig in **HTML** und **Tailwind CSS** entwickelt und für 
 
 ---
 
-## ⚡ Installation & Nutzung
+##  Installation & Nutzung
 
-1. Repository klonen:
-   ```bash
+##1. Repository klonen:
+##   ```bash
    git clone https://github.com/souldest/potential-journey
 
 
