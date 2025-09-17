@@ -46,6 +46,6 @@ Die Seite ist vollständig in **HTML** und **Tailwind CSS** entwickelt und für 
 
 1. Repository klonen:
    ```bash
-   git clone https://github.com/souldest/potential-journey/blob/main/README.md
+   git clone https://github.com/souldest/potential-journey
 
 
