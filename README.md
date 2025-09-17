@@ -1,46 +1,41 @@
-<p align="center">
-  <!-- Logo einfügen: ersetze den src-Link mit dem Raw-Link deines Logos -->
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/logo.png" alt="AI & Data Solutions Logo" width="120"/>
-</p>
+# AI & Data Solutions – Webseite
 
-<h1 align="center" style="color:#4F46E5;">AI & Data Solutions</h1>
+Dies ist die offizielle Webseite von **AI & Data Solutions**, einem Unternehmen, das sich auf KI-, Datenanalyse- und Business-Intelligence-Lösungen spezialisiert hat.
 
-<p align="center">
-  <em>Ihr Partner für Data Science, KI & Generative AI</em>
-</p>
+**Live-Demo der Webseite:** [ai-and-data-solutions.de](https://ai-and-data-solutions.de)
 
 ---
 
-## 🚀 Unsere Leistungen
-- **Data Science & Analytics**: Datenanalyse, statistische Modellierung, Prognosen  
-- **Machine Learning & KI**: Deep Learning, Generative AI, Predictive Analytics  
-- **Business Intelligence & Reporting**: Dashboards (Power BI, Tableau, Qlik), KPI-Monitoring  
-- **Datenmanagement & Engineering**: ETL, Data Lakes, Warehousing  
-- **Cloud & Deployment**: Azure, AWS, Vercel, CI/CD, MLOps  
-- **Beratung & Training**: Workshops, Schulungen, Strategie-Beratung  
+## 📌 Überblick
+
+Die Webseite präsentiert:
+
+- Informationen über das Unternehmen
+- Dienstleistungen im Bereich Data Science, Machine Learning und Generative AI
+- Referenzen und Kundenprojekte
+- Kontaktformular für Anfragen
+- Impressum & Datenschutzerklärung
+
+Die Seite ist vollständig in **HTML** und **Tailwind CSS** entwickelt und für responsive Darstellung optimiert.
 
 ---
 
-## 🌐 Website
-👉 [Hier geht’s zur Homepage](https://ideal-computing-machine-qoun2z31p-sidi-weiss-projects.vercel.app/)  
+## 💻 Technologien
+
+- **HTML5**
+- **Tailwind CSS v2.2.19**
+- Responsives Layout für Desktop und Mobilgeräte
+- Sanftes Scrollen zwischen Sektionen
 
 ---
 
-## 📬 Kontakt
-📍 Obere Waiblinger Str. 147a, 70374 Stuttgart  
-📞 0049176 / 31591931  
-📧 [estaghvirou.b@gmail.com](mailto:estaghvirou.b@gmail.com)  
+## 🛠️ Features
 
-Oder direkt über das Kontaktformular auf der Website.  
-
----
-
-## ⚖️ Rechtliches
-- [Impressum](https://ideal-computing-machine-qoun2z31p-sidi-weiss-projects.vercel.app/#impressum)  
-- [Datenschutz](https://ideal-computing-machine-qoun2z31p-sidi-weiss-projects.vercel.app/#datenschutz)  
-
----
-
-<p align="center">
-  © 2025 <strong>AI & Data Solutions</strong> · Alle Rechte vorbehalten
-</p>
+- **Navigation:** Feste Navbar mit Links zu allen Sektionen
+- **Header:** Auffälliger Hero-Bereich mit Titel, Slogan und Schlüsselkompetenzen
+- **Über uns:** Vorstellung des Unternehmens und Teams
+- **Leistungen:** Übersicht über angebotene Services
+- **Referenzen:** Liste von Projekten und Kunden
+- **Kontaktformular:** Direktes Senden von Nachrichten über Formspree
+- **Impressum & Datenschutz:** Rechtliche Informationen und Datenschutzerklärung
+- **Footer:** Standard-Footer mit Copyright
