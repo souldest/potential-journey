@@ -39,3 +39,11 @@ Die Seite ist vollständig in **HTML** und **Tailwind CSS** entwickelt und für 
 - **Kontaktformular:** Direktes Senden von Nachrichten über Formspree
 - **Impressum & Datenschutz:** Rechtliche Informationen und Datenschutzerklärung
 - **Footer:** Standard-Footer mit Copyright
+
+---
+
+## ⚡ Installation & Nutzung
+
+1. Repository klonen:
+   ```bash
+   git clone https://github.com/DEIN_USERNAME/DEIN_REPO.git
